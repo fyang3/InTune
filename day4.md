@@ -1,9 +1,10 @@
 ---
-title: Day 3
+title: Day 4
 layout: default
+filename: day4.md
 --- 
 
-# Day 3
+# Day 4
 
 Of the curriculum, yeahhh!
 

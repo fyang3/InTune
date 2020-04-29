@@ -5,8 +5,6 @@ layout: default
 
 # Day 2
 
-Of the curriculum, yeahhh!
+Of the curriculum
 
-Here's a cat:
-
-![](https://placekitten.com/400/287)
+LALALALA
