@@ -10,6 +10,15 @@
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    
+    <style type="text/css">
+      .white-link {
+        color: #ffffff;
+      }
+      .gray-bar {
+        color: gray;
+      }
+    </style>
 
 {% seo %}
   </head>
@@ -27,6 +36,14 @@
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
+        {% for page in site.pages %}
+          {% if page.title != '' %}
+            <a class="white-link" href={{ page.filename }}>{{ page.title }}</a>
+            {% if forloop.last == false %}
+              <span class="gray-bar"> | </span>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
       </div>
     </header>
 
