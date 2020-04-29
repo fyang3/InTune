@@ -1,8 +1,7 @@
 ---
 title: InTune Curriculum
 layout: default
-filename: index
---- 
+---
 
 # Welcome
 
