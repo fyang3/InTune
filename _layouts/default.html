@@ -27,6 +27,9 @@
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
+        {% for page in site.pages %}
+            <a href={{ page.filename }}>{{ page.title }}</a>
+        {% endfor %}
       </div>
     </header>
 
