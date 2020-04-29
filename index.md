@@ -1,7 +1,9 @@
 ---
-title: Home Page
+title: InTune Curriculum
 layout: default
-filename: index.md
+filename: index
 --- 
+
+# Welcome
 
 This is the home page!

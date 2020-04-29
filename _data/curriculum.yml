@@ -1,0 +1,9 @@
+navigation:
+  - url: index
+    name: Home
+  - url: day1
+    name: Day 1
+  - url: day2
+    name: Day 2
+  - url: day3
+    name: Day 3
