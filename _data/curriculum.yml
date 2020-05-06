@@ -7,3 +7,7 @@ navigation:
     name: Day 2
   - url: day3
     name: Day 3
+  - url: day4
+    name: Day 4
+  - url: day5
+    name: Day 5
