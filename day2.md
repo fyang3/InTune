@@ -7,7 +7,6 @@ layout: default
 
 *   DEEP DRUM
 *   DEEP ARP
-*   A.I. PIANO DUET
 
 ## Goals for Day 2
 
