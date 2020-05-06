@@ -11,3 +11,5 @@ navigation:
     name: Day 4
   - url: day5
     name: Day 5
+  - url: day6
+    name: Day 6
