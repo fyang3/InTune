@@ -5,7 +5,7 @@ filename: day5.md
 --- 
 
 # Day 5 - Teachable Machine with Musical Instruments
-https://teachablemachine.withgoogle.com/train/audio
+https://teachablemachine.withgoogle.com/models/WQvoC-vNX/
 
 ## Design Your Own Model
 
