@@ -9,7 +9,7 @@ Welcome to InTune, a curriculum for middle school students to learn about AI thr
 
 ## The Curriculum
 
-This is a five-day curriculum with each day as follows:
+This is a six-day curriculum with each day as follows:
 
 * Day1: Organic Music with InTune
 * Day2: Magenta Demo1
