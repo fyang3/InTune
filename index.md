@@ -11,8 +11,11 @@ Welcome to InTune, a curriculum for middle school students to learn about AI thr
 
 This is a five-day curriculum with each day as follows:
 
-* Day1: Magenta
-* Day2: Intro to Teachable Machine
-* Day3: Teachable Machine with Musical Instruments
-* Day4: Organic Music with InTune Model
-* Day5: Capstone Project Presentation Day
+Day1: Organic Music with InTune
+Day2: Magenta Demo1
+Day3: Magenta Demo2
+Day4: Intro to Teachable Machine
+Day5: Teachable Machine with Musical Instruments
+Day6: Capstone Project Presentation Day
+
+
